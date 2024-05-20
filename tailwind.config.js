@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode:"class",
   content: ["./**/*.{html,js}"],
   theme: {
     extend: {
@@ -7,7 +8,7 @@ module.exports = {
         "sm": "480px"
       },
       spacing:{
-        "big" :"48rem"
+        "big" :"40rem"
       }
     },
     fontFamily:{
