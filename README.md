@@ -2,6 +2,9 @@
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences in web development. Built with modern web technologies, this site serves as a digital resume and a hub for my professional presence online.
 
+##Website link : - https://pretulikasardaris.github.io/tailwind-portfolio/
+##Github repo :- https://github.com/PretulikaSardaris/tailwind-portfolio
+
 ## Features
 
 ### Overview
@@ -41,9 +44,6 @@ To run this project locally, follow these steps:
 
 I welcome contributions to enhance this portfolio website! If you have suggestions for improvements or find any issues, please feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
